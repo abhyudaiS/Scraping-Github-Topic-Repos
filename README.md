@@ -7,3 +7,4 @@ These top topics page are also scraped for the top repositories with their usern
 
 BeautifulSoup Library is used for scraping.
 
+This is a follow-along project from youtube.
